@@ -168,10 +168,16 @@ The dashboard enables HR to **monitor absenteeism trends, track healthy employee
 
 ---
 <h2 id="author--contact">👤 Author & Contact</h2>
-**Shreeganesh Bhat** – Data Analyst  
-- **Email:** shriganeshbhat0@gmail.com  
-- **LinkedIn:** [https://www.linkedin.com/in/shreeganesh-bhat-8a8184398](https://www.linkedin.com/in/shreeganesh-bhat-8a8184398)  
-- **GitHub:** [https://github.com/shriganeshbhat0-git](https://github.com/shriganeshbhat0-git)
+
+- Shreeganesh Bhat 
+
+- Data Analyst  
+
+    - Email:shriganeshbhat0@gmail.com  
+
+    - LinkedIn: [https://www.linkedin.com/in/shreeganesh-bhat-8a8184398](https://www.linkedin.com/in/shreeganesh-bhat-8a8184398)  
+
+    - GitHub: [https://github.com/shriganeshbhat0-git](https://github.com/shriganeshbhat0-git)
 
 
 
